@@ -5,5 +5,4 @@ def key_for_min_value(name, value)
     if name_hash.empty? == true
       return nil
     end
-    name_hash
 end
